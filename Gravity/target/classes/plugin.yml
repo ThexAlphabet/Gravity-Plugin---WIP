@@ -1,0 +1,8 @@
+name: Gravity
+version: '1.0-SNAPSHOT'
+main: dev.xalphabet.gravity.Gravity
+api-version: '1.20'
+commands:
+  setgravity:
+    description: Sets the player's gravity multiplier.
+    usage: /setgravity <gravity>
